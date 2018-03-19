@@ -1,4 +1,8 @@
 theme: jekyll-theme-slate
 
-header_image_filename: ATLA-Name-Color.jpg
+header_image_filename: thatcamp-atla-header.png
 header_hashtag: thatcampatla
+
+footer_image_filename: ATLA-Solo_color-trans.png
+
+disqus:
