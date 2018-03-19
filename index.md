@@ -4,8 +4,10 @@ twitter: <a class="twitter-timeline" href="https://twitter.com/YourATLA" data-he
 ---
 
 <div style="text-align: center;">
+
 ## THATCamp ATLA
 [**2018 - Indianapolis**](2018.html)
+
 </div>
 
 Digital Humanities is changing the way we do research and teaching across all disciplines, and theological schools are no exception. Much of the most cutting edge work in digital humanities is being done by librarians. So, if you would like to join with others to share in learning how libraries can participate in and encourage the digital humanities, join us at THATCampATLA.
