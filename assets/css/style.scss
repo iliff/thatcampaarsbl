@@ -13,6 +13,13 @@ img {
   display: inline-block;
   width: 70%;
   max-width: none;
+  padding-top: 0px;
+
+}
+
+#main_content_wrap {
+
+  min-height: 600px;
 
 }
 
@@ -21,7 +28,7 @@ img {
   float: left;
   width: 25%;
   min-width: 180px;
-  padding-top: 40px;
+  padding-top: 0px;
 
 }
 
